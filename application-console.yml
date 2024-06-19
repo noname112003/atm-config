@@ -1,0 +1,6 @@
+spring:
+  profiles: console
+ATM:
+  moneyATM: 1000000
+printer:
+  type: console
